@@ -1,0 +1,21 @@
+# Python cache files
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.env
+
+# Certificates and private keys
+certs/
+*.key
+*.pem
+*.crt
+
+# Model artifacts
+*.joblib
+*.pkl
+
+# System files
+.DS_Store
+Thumbs.db
