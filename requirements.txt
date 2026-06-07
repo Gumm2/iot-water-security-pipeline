@@ -1,0 +1,7 @@
+paho-mqtt
+numpy
+pandas
+scikit-learn
+joblib
+flask
+matplotlib
